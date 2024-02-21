@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       token:
-        description: 'chaitin rivers token'
+        description: '5f23c8a35539af983d7897d07fe38629'
         required: true
       type:
-        description: 'your host type'
+        description: 'linux'
         required: true
 
 jobs:
